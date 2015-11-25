@@ -1,6 +1,6 @@
 # Golang GB Docker Image
 
-GB is a project based build tool for the Go programming language.
+[GB is a project based build tool](http://getgb.io/) for the Go programming language.
 This image provides a straightforward way to use GB projects with docker.
 It makes use of the docker onbuild triggers.
 
