@@ -9,10 +9,14 @@ It makes use of the docker onbuild triggers.
 - `1.5-onbuild`
 - `1.5-alpine`
 - `1.5-alpine-onbuild`
-- `1.6`, `latest`
-- `1.6-onbuild`, `onbuild`
-- `1.6-alpine`, `alpine`
-- `1.6-alpine-onbuild`, `alpine-onbuild`
+- `1.6`
+- `1.6-onbuild`
+- `1.6-alpine`
+- `1.6-alpine-onbuild`
+- `1.7`, `latest`
+- `1.7-onbuild`, `onbuild`
+- `1.7-alpine`, `alpine`
+- `1.7-alpine-onbuild`, `alpine-onbuild`
 
 ## Usage
 How to use this image Start a Go instance in your app.
